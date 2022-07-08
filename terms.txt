@@ -1,0 +1,14 @@
+Variable- Not consistent or having a fixed pattern; liable to change.
+● Assignment - a task or piece of work assigned to someone as part of a job or course of study.
+● Statement- a definite or clear expression of something in speech or writing.
+● Expression- the process of making known one's thoughts or feelings.
+● Integer- a whole number; a number that is not a fraction.
+● Float- a data type composed of a number that is not an integer
+● String- used for data values that are made up of ordered sequences of characters
+● Literal- the values we write in a conventional form whose value is obvious
+● Boolean- a logical data type that can have only the values true or false 
+● Identifier- the user-defined name of a program element.
+● Camel Case- a naming convention for writing file or object names using compounded or joined words with at least of those words beginning in a capital letter
+● Reserved Words- a naming convention for writing file or object names using compounded or joined words with at least of those words beginning in a capital letter
+● Naming- a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
+Convention-specific symbols and instructional notes to aid the coder to code the diagnosis to the highest level of specificity allowed by the medical record documentation and narrative data available.
